@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483853458900",
+    "project_id": "damkotlinproject2",
+    "storage_bucket": "damkotlinproject2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483853458900:android:cfcf6fa40c7737c6b30a41",
+        "android_client_info": {
+          "package_name": "com.example.damkotlinproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483853458900-m19hmdm8eb5fvmkqs1e1f97cacvpk23i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB00_Ys_S8TJ-lVeKrDVEVt40kVceymuTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483853458900-m19hmdm8eb5fvmkqs1e1f97cacvpk23i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
