@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Write a message to the database
+        // Referència de la bbdd
         val database = Firebase.database
 
         // Escriure un valor a una referència
